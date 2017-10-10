@@ -3,8 +3,8 @@ Ruby grape api template
 
 Basic Ruby Grapi API
 
-`bundle install` after git clone \n
-to run in command line : \n
-`bundle exec puma` \n
+`bundle install` after git clone <br/>
+to run in command line : <br/>
+`bundle exec puma` <br/>
 
 also, you can run it with docker
